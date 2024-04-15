@@ -3,16 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjoy991&label=Profile%20views&color=0e75b6&style=flat" alt="shinjoy991" /> </p>
 
-- 🔭 I’m currently working on **project1**
+- 🔭 I’m currently working on **Implementing and producing a pasteurized autoclave system**
 
-- 👯 I’m looking to collaborate on **project2**
-
-- 🤝 I’m looking for help with **project3**
 - 🌱 I’m currently learning **Mechanical Engineering**
 
-- 📫 How to reach me **exampleShinJoy@gmail.com**
-
-- ⚡ Fun fact **This readme is just an example, nothing is true**
+- 📫 How to reach me **thmn991@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
